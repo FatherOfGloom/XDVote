@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj": {}
+    "c:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj": {
+    "c:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj",
+        "projectUniqueName": "c:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj",
         "projectName": "XDVote",
-        "projectPath": "C:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj",
+        "projectPath": "c:\\Users\\mi\\tartaros\\VSC\\XDVote\\XDVote.csproj",
         "packagesPath": "C:\\Users\\mi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mi\\tartaros\\VSC\\XDVote\\obj\\",
+        "outputPath": "c:\\Users\\mi\\tartaros\\VSC\\XDVote\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
