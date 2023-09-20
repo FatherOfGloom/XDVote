@@ -1,0 +1,19 @@
+[
+  {
+    "PollName": "Poll1",
+    "Candidates": [
+      {
+        "Name": "obama",
+        "NumberOfVotes": 0
+      },
+      {
+        "Name": "putin",
+        "NumberOfVotes": 1
+      },
+      {
+        "Name": "biden",
+        "NumberOfVotes": 1
+      }
+    ]
+  }
+]

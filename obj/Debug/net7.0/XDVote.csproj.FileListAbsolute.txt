@@ -1,0 +1,14 @@
+C:\Users\mi\tartaros\VSC\XDVote\bin\Debug\net7.0\XDVote.exe
+C:\Users\mi\tartaros\VSC\XDVote\bin\Debug\net7.0\XDVote.deps.json
+C:\Users\mi\tartaros\VSC\XDVote\bin\Debug\net7.0\XDVote.runtimeconfig.json
+C:\Users\mi\tartaros\VSC\XDVote\bin\Debug\net7.0\XDVote.dll
+C:\Users\mi\tartaros\VSC\XDVote\bin\Debug\net7.0\XDVote.pdb
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\XDVote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\XDVote.AssemblyInfoInputs.cache
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\XDVote.AssemblyInfo.cs
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\XDVote.csproj.CoreCompileInputs.cache
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\XDVote.dll
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\refint\XDVote.dll
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\XDVote.pdb
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\XDVote.genruntimeconfig.cache
+C:\Users\mi\tartaros\VSC\XDVote\obj\Debug\net7.0\ref\XDVote.dll
